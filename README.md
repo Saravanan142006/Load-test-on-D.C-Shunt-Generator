@@ -1,5 +1,5 @@
 # Load-test-on-D.C-Shunt-Generator
-### Name: Saravanan M
+### Name: Saravanan M 
 ### Reg no:212223080050
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
